@@ -1,6 +1,6 @@
 .. image:: https://github.com/element-hq/synapse/raw/develop/docs/element_logo_white_bg.svg
    :height: 60px
-dfs
+
 **Element Synapse - Matrix homeserver implementation**
 
 |support| |development| |documentation| |license| |pypi| |python|
